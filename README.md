@@ -1,2 +1,2 @@
-# markdown-samples
-Mardown samples
+# Markdown samples
+Little samples of markwdown for GitHub
