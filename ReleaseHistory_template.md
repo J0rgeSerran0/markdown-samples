@@ -2,5 +2,5 @@
 
 ## {Name Project}
 
-#### {Version} {Date}
+* {Version} {Date}
 {Details}
