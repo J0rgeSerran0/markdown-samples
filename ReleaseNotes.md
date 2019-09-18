@@ -1,7 +1,7 @@
 # Release Notes #R00001
 
 ## Foo App
-### v1.0
+### v1.0.1
 #### 18/09/2019
 
 #### Breaking Changes
