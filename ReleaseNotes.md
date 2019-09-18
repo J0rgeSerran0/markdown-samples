@@ -1,8 +1,7 @@
 # Release Notes #R00001
 
 ## Foo App
-### v1.0.1
-#### 18/09/2019
+<img src="https://img.shields.io/badge/v1.0.1-blueviolet" /> <img src="https://img.shields.io/badge/18/09/2019-ff69b4" />
 
 #### Breaking Changes
 NA
