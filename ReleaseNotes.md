@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/v1.0.1-blueviolet" /> <img src="https://img.shields.io/badge/18/09/2019-ff69b4" />
 
 #### Breaking Changes
-NA
+<img src="https://img.shields.io/badge/not available-lightgrey" />
 
 #### Upgrade Details
 - [X] Overwrite the assemblies over the existing assemblies
@@ -22,7 +22,7 @@ NA
 - [X] The App take less time to be executed when is launched
 
 #### Other Details
-NA
+<img src="https://img.shields.io/badge/not available-lightgrey" />
 
 #### Known Issues
 - [X] #B002 - When you close the About window and try to open it again, the About window does not appear anymore 
