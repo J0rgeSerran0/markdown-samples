@@ -29,4 +29,4 @@
 * <img src="https://img.shields.io/badge/v1.0-green" /> <img src="https://img.shields.io/badge/13/09/2019-blueviolet" /> <img src="https://img.shields.io/badge/Release 24-green" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NEW-green" /> xxx
+<img src="https://img.shields.io/badge/NEW-success" /> xxx
