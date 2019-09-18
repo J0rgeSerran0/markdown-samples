@@ -1,4 +1,4 @@
-# Release Notes (Number of the *Release* #R{Number})
+# Release Notes (Number of the Release *Release {Number}*)
 
 ## {Name Project}
 {Version} {Date}
