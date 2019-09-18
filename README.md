@@ -1,5 +1,5 @@
 # Markdown samples and templates
-Little samples and templates of markwdown for GitHub
+Little samples and templates for Software Developments
 
 #### Release Notes
 * [Release Notes Template](ReleaseNotes_template.md)
