@@ -1,45 +1,45 @@
 # Release Notes (Number of the *Release* #R{Number})
 
-## [{Version}]()
-### {Date}
+### [{Version}]()
+#### {Date}
 
-### Breaking Changes
+#### Breaking Changes
 * Details of the breaking changes included in this version
 - [X] ...
 - [X] ...
 
-### Upgrade Details
+#### Upgrade Details
 * Notes and details of how to upgrade to this version
 - [X] ...
 - [X] ...
 
-### New Features
+#### New Features
 * Details of the new features included in this version
 - [X] ...
 - [X] ...
 
-### Bugs
+#### Bugs
 * Details of the bugs fixed in this version
 (Number of the *bug* #B{Number} with their details)
 - [X] ...
 - [X] ...
 
-### Issues
+#### Issues
 * Details of the issues fixed in this version
 (Number of the *issue* #I{Number} with their details)
 - [X] ...
 - [X] ...
 
-### Improvements
+#### Improvements
 * Performance improvement or others to justify this version
 - [X] ...
 - [X] ...
 
-### Other Details
+#### Other Details
 * Other details to have under consideration
 - [X] ...
 - [X] ...
 
-### Known Issues
+#### Known Issues
 * Details about known issues not fixed in this version
 - [X] ...
