@@ -1,7 +1,7 @@
 # Release Status
 
 ## Foo App
-<img src="https://img.shields.io/badge/last updated-18/09/2019-bluevilote" />
+<img src="https://img.shields.io/badge/last updated-18/09/2019-blueviolet" />
 
 |<img src="https://img.shields.io/badge/local-lightgrey" />|<img src="https://img.shields.io/badge/DEV-lightgrey" />|<img src="https://img.shields.io/badge/STA-9cf" />|<img src="https://img.shields.io/badge/PRO-blue" />|
 |--------------|--------------|--------------|--------------|
