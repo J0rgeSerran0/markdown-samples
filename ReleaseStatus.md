@@ -1,8 +1,8 @@
 # Release Status
 
 ## Foo App
-#### 18/09/2019
+<img src="https://img.shields.io/badge/18/09/2019-ff69b4" />
 
-|local         |DEV           |STA           |PRO           |
+|<img src="https://img.shields.io/badge/local-blue" />|<img src="https://img.shields.io/badge/DEV-blue" />|<img src="https://img.shields.io/badge/STA-blue" />|<img src="https://img.shields.io/badge/PRO-blue" />|
 |--------------|--------------|--------------|--------------|
-|1.0.1-preview5|1.0.1-preview4|1.0           |1.0           |
+|<img src="https://img.shields.io/badge/v1.0.1-preview5-yellow" />|<img src="https://img.shields.io/badge/v1.0.1-preview4-yellow" />|<img src="https://img.shields.io/badge/v1.0-green" />|<img src="https://img.shields.io/badge/v1.0-green" />|
