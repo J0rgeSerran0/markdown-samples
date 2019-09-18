@@ -5,7 +5,7 @@
 * [<img src="https://img.shields.io/badge/v1.0.1-green" /> <img src="https://img.shields.io/badge/18/09/2019-blueviolet" /> <img src="https://img.shields.io/badge/Release 27-green" />](https://github.com/J0rgeSerran0/markdown-samples-and-templates/blob/master/ReleaseNotes.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NEW-green" /> Description of this new feature
+<img src="https://img.shields.io/badge/NEW-success" /> Description of this new feature
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MODIFIED-orange" /> xxx
