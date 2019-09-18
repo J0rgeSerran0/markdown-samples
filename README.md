@@ -8,3 +8,7 @@ Little samples and templates of markwdown for GitHub
 #### Release Status
 * [Release Status Template](ReleaseStatus_template.md)
 * [Release Status Sample](ReleaseStatus.md)
+
+#### Release History
+* [Release History Template](ReleaseHistory_template.md)
+* [Release History Sample](ReleaseHistory.md)
