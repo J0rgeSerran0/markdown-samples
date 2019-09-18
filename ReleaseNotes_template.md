@@ -1,8 +1,7 @@
 # Release Notes (Number of the *Release* #R{Number})
 
 ## {Name Project}
-### [{Version}]()
-#### {Date}
+{Version}{Date}
 
 #### Breaking Changes
 * Details of the breaking changes included in this version
