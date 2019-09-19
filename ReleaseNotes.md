@@ -3,7 +3,7 @@
 ## Foo App
 <img src="https://img.shields.io/badge/v1.0.1-green" /> <img src="https://img.shields.io/badge/18/09/2019-blueviolet" />
 
-#### <img src="https://img.shields.io/badge/Breaking Changes-orange" />
+#### Breaking Changes
 <img src="https://img.shields.io/badge/not available-lightgrey" />
 
 #### Upgrade Details
@@ -26,3 +26,4 @@
 
 #### Known Issues
 - [X] #B002 - When you close the About window and try to open it again, the About window does not appear anymore 
+
